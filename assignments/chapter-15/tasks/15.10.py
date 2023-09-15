@@ -1,3 +1,11 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/14/2023                   #
+# Filename: 15.2.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
 
 def count(s, a):
     if len(s) == 1:
