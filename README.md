@@ -1,1 +1,3 @@
-# binghamacademy
+# binghamacademy - DC Python Programming
+
+
