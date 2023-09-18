@@ -1,12 +1,3 @@
-##############################################
-#                                            #
-# Author: Robert Bogdanik                    #
-# Created Date: 09/14/2023                   #
-# Filename: 1.10.py                          #
-# License: Apache 2.0                        #
-#                                            #
-##############################################
-
 name = input("Enter employee's name: ")
 hours = eval(input("Enter number of hours worked in a week: "))
 payRate = eval(input("Enter hourly pay rate: "))
