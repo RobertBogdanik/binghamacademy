@@ -2,7 +2,7 @@
 
 This repository contains my DC Python Programming assignment solutions from the 2023/24 school year.
 
-# Spis Treści
+# Contents
 
 1. [Repository structure](#Repository-structure)
 2. [The purpose of this repository](#The-purpose-of-this-repository)
