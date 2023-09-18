@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.30.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 timezone = eval(input("Enter the time zone offset to GMT: "))
 
 import time

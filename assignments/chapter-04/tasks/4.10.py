@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.10.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import random
 
 number1 = random.randint(0, 99)

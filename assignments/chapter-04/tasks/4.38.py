@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.38.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import turtle
 
 x1, y1, w1, h1 = eval(input("Enter r1's center x-, y-coordinates, width, and height: "))

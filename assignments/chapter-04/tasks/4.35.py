@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.35.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import turtle
 
 x1, y1, x2, y2, x3, y3 = eval(input("Enter coordinates for the three points p0, p1, and p2: "))

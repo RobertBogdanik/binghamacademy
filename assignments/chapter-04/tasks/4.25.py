@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.25.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 x1, y1, x2, y2, x3, y3, x4, y4 = eval(input("Enter x1, y1, x2, y2, x3, y3, x4, y4: "))
 
 a = (y1 - y2) / (x1 - x2)

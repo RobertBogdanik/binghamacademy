@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.3.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 a, b, c, d, e, f = eval(input("Enter a, b, c, d, e, f: "))
 
 if a*d-b*c != 0:

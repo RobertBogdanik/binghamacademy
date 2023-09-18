@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.29.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import math
 
 x1, y1, r1 = eval(input("Enter circle1's center x-, y-coordinates, and radius: "))

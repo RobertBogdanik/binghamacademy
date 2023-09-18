@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.24.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 rank = ('Ace', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'Jack', 'Queen', 'King')
 
 suit = ('Clubs', 'Diamonds', 'Hearts', 'Spades')

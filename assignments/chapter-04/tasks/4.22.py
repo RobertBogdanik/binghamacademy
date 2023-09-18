@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.22.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import math
 
 x1, y1 = eval(input("Enter a point with two coordinates: "))

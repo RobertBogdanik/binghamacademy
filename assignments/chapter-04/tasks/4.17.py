@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.17.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import random
 
 user = eval(input("scissor (0), rock (1), paper (2): "))

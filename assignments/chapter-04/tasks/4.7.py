@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.7.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 amount = eval(input("Enter an amount, for example, 11.56: "))
 
 # Convert the amount to cents

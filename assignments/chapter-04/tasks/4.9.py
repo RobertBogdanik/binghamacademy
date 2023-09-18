@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.9.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 weight1, price1 = eval(input("Enter weight and price for package 1: "))
 weight2, price2 = eval(input("Enter weight and price for package 2: "))
 

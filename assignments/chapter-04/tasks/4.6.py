@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.6.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 weight = eval(input("Enter weight in pounds: "))
 feet = eval(input("Enter feet: "))
 inches = eval(input("Enter inches: "))

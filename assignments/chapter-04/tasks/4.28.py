@@ -1,7 +1,11 @@
-# Geometry: two rectangles) Write a program that prompts the user to enter the
-# center x-, y-coordinates, width, and height of two rectangles and determines
-# whether the second rectangle is inside the first or overlaps with the first, as shown
-# in Figure 4.10. Test your program to cover all cases.
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.28.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
 
 x1, y1, w1, h1 = eval(input("Enter r1's center x-, y-coordinates, width, and height: "))
 x2, y2, w2, h2 = eval(input("Enter r2's center x-, y-coordinates, width, and height: "))

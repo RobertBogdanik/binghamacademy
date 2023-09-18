@@ -1,3 +1,11 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.5.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
 
 todayDay = eval(input("Enter today's day: "))
 elapsedSinceToday = eval(input("Enter the number of days elapsed since today: "))

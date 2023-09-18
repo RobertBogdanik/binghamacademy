@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 4.2.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+ 
 import random
 
 n1 = random.randint(0, 10)
