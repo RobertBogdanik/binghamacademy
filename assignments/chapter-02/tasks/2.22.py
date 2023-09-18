@@ -1,8 +1,11 @@
-# (Population projection) Rewrite Exercise 1.11 to prompt the user to enter the
-# number of years and displays the population after that many years. Here is a
-# sample run of the program:
-# Enter the number of years:
-# The population in 5 years is 325932970
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/14/2023                   #
+# Filename: 15.1.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
 
 numberOfYears = eval(input("Enter the number of years: "))
 currentPopulation = 312032486

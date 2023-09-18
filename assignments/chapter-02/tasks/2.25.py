@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/14/2023                   #
+# Filename: 15.1.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import turtle
 
 x, y = eval(input("Enter the center of the circle x, y: "))
