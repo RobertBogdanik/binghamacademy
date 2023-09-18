@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: ??/??/2023                   #
+# Filename: 3.1.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+ 
 import math
 
 length = eval(input("Enter the length from the center to a vertex: "))

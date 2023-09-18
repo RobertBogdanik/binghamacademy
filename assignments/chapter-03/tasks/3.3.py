@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: ??/??/2023                   #
+# Filename: 3.3.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 # (Geography: estimate areas) Find the GPS locations for Atlanta, Georgia;
 # Orlando, Florida; Savannah, Georgia; and Charlotte, North Carolina from
 # www.gps-data-team.com/map/ and compute the estimated area enclosed by these

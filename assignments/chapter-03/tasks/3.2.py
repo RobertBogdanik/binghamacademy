@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: ??/??/2023                   #
+# Filename: 3.2.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+ 
 import math
 
 x1, y1, = eval(input("Enter point 1 (latitude and longitude) in degrees: "))

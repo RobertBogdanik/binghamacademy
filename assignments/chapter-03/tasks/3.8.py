@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: ??/??/2023                   #
+# Filename: 3.8.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 amount = eval(input("Enter an amount, for example, 11.56: "))
 
 amount = str(amount)
