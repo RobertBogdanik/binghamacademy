@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 08/??/2023                   #
+# Filename: 1.12.py                          #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 import turtle
 
 
