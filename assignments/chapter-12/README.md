@@ -2,7 +2,7 @@
 
 - **12.1**: [The Triangle class](./tasks/12.1.py)
 - **12.2**: [The Location class](./tasks/12.2.py)
-- **12.3**: [](./tasks/12.3.py)
+- **12.3**: [Game: ATM machine](./tasks/12.3.py)
 - **12.4**: [](./tasks/12.4.py)
 - **12.5**: [](./tasks/12.5.py)
 - **12.6**: [](./tasks/12.6.py)
