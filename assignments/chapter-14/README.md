@@ -1,26 +1,16 @@
-# Chapter 8 - More on Strings and Special Methods
+# Chapter 14 - Tuples, Dictionary, and Sets
 
-- **8.1**: [](./tasks/8.1.py)
-- **8.2**: [](./tasks/8.2.py)
-- **8.3**: [](./tasks/8.3.py)
-- **8.4**: [](./tasks/8.4.py)
-- **8.5**: [](./tasks/8.5.py)
-- **8.6**: [](./tasks/8.6.py)
-- **8.7**: [Phone keypads](./tasks/8.7.py)
-- **8.8**: [](./tasks/8.8.py)
-- **8.9**: [](./tasks/8.9.py)
-- **8.10**: [](./tasks/8.10.py)
-- **8.11**: [](./tasks/8.11.py)
-- **8.12**: [](./tasks/8.12.py)
-- **8.13**: [](./tasks/8.13.py)
-- **8.14**: [](./tasks/8.14.py)
-- **8.15**: [](./tasks/8.15.py)
-- **8.16**: [](./tasks/8.16.py)
-- **8.17**: [](./tasks/8.17.py)
-- **8.18**: [Geometry: The Circle2D class](./tasks/8.18.py)
-- **8.19**: [](./tasks/8.19.py)
-- **8.20**: [](./tasks/8.20.py)
-- **8.21**: [](./tasks/8.21.py)
+- **14.1**: [](./tasks/14.1.py)
+- **14.2**: [](./tasks/14.2.py)
+- **14.3**: [](./tasks/14.3.py)
+- **14.4**: [](./tasks/14.py)
+- **14.5**: [](./tasks/14.5.py)
+- **14.6**: [](./tasks/14.6.py)
+- **14.7**: [](./tasks/14.7.py)
+- **14.8**: [](./tasks/14.8.py)
+- **14.9**: [](./tasks/14.9.py)
+- **14.10**: [](./tasks/14.10.py)
+- **14.11**: [](./tasks/14.11.py)
 
 <h2 style="color:red">Note:</h2>
 
