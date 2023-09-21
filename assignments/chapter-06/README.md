@@ -28,7 +28,7 @@
 - **6.26**: [](./tasks/6.26.py)
 - **6.27**: [](./tasks/6.27.py)
 - **6.28**: [](./tasks/6.28.py)
-- **6.29**: [](./tasks/6.29.py)
+- **6.29**: [Financial: credit card number validation](./tasks/6.29.py)
 - **6.30**: [](./tasks/6.30.py)
 - **6.31**: [](./tasks/6.31.py)
 - **6.32**: [](./tasks/6.32.py)
