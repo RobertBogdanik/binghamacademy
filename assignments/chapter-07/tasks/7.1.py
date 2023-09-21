@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 7.1.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 class Rectangle:
     def __init__(self, width=1, height=2):
         self.width = width

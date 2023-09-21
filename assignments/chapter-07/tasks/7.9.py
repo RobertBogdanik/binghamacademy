@@ -1,8 +1,8 @@
 ##############################################
 #                                            #
 # Author: Robert Bogdanik                    #
-# Created Date: 09/??/2023                   #
-# Filename: 7.7.py                           #
+# Created Date: 09/20/2023                   #
+# Filename: 7.9.py                           #
 # License: Apache 2.0                        #
 #                                            #
 ##############################################
@@ -58,5 +58,17 @@ class LinearEquation:
         bottom = self.__a * self.__d - self.__b * self.__c
         return top/bottom
 
-o = LinearEquation()
-print(o.get_a())
+x1, y1, x2, y2 = eval(input("Enter the endpoints of the first line segment: \n"))
+x3, y3, x4, y4 = eval(input("Enter the endpoints of the second line segment: \n"))
+
+a = y1 - y2
+b = x2 - x1
+e = x2 * y1 - x1 * y2
+c = y3 - y4
+d = x4 - x3
+f = x4 * y3 - x3 * y4
+
+o = LinearEquation(a, b, c, d, e, f)
+
+print("The intersecting point is: (", o.getX(), ",", o.getY(), ")")
+

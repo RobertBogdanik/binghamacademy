@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 7.2.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 class Stock:
     def __init__(self, name, symbol, previousClosingPrice, currentPrice):
         self.__name: str = name

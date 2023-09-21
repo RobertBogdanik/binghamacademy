@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 7.3.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 class Account:
     def __init__(self, id=0, balance=100, annualInterestRate=0):
         self.__id = id

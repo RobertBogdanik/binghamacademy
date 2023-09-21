@@ -1,3 +1,12 @@
+##############################################
+#                                            #
+# Author: Robert Bogdanik                    #
+# Created Date: 09/??/2023                   #
+# Filename: 7.4.py                           #
+# License: Apache 2.0                        #
+#                                            #
+##############################################
+
 class Fan:
     def __init__(self, speed = 1, radius = 5, color = "blue", on = False):
         self.__speed = speed
