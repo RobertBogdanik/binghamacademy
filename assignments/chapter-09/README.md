@@ -1,5 +1,5 @@
 # Chapter 9 - GUI Programming Using Tkinter
-# !!!UPLOAD FILES!!!
+
 - **9.1**: [Move the ball](./tasks/9.1.py)
 - **9.2**: [Create an investment-value calculator](./tasks/9.2.py)
 - **9.3**: [Select geometric figures](./tasks/9.3.py)
