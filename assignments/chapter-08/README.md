@@ -20,7 +20,7 @@
 - **8.18**: [Geometry: The Circle2D class](./tasks/8.18.py)
 - **8.19**: [Geometry: The Rectangle2D class](./tasks/8.19.py)
 - **8.20**: [Use the Rational class](./tasks/8.20.py)
-- **8.21**: [](./tasks/8.21.py)
+- **8.21**: [Math: The Complex class](./tasks/8.21.py)
 
 <h2 style="color:red">Note:</h2>
 
