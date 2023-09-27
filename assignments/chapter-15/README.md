@@ -34,8 +34,8 @@
 - **15.32**: [](./tasks/15.1.py)
 - **15.33**: [](./tasks/15.1.py)
 - **15.34**: [](./tasks/15.1.py)
-- **15.35**: [](./tasks/15.1.py)
-- **15.36**: [](./tasks/15.1.py)
+- **15.35**: [Tkinter: Sierpinski triangle](./tasks/15.1.py)
+- **15.36**: [Turtle: Sierpinski triangle](./tasks/15.1.py)
 
 <h2 style="color:red">Note:</h2>
 
