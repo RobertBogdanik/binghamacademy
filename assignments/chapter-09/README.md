@@ -27,13 +27,13 @@
 - **9.25**: [Traffic lights](./tasks/9.25.py)
 - **9.26**: [Display balls with random colors](./tasks/9.26.py)
 - **9.27**: [Compare loans with various interest rates](./tasks/9.27.py)
-- **9.28**: [](./tasks/9.28.py)
-- **9.29**: [](./tasks/9.29.py)
-- **9.30**: [](./tasks/9.30.py)
-- **9.31**: [](./tasks/9.31.py)
-- **9.32**: [](./tasks/9.32.py)
-- **9.33**: [](./tasks/9.33.py)
-- **9.34**: [](./tasks/9.34.py)
+- **9.28**: [Geometry: display angles](./tasks/9.28.py)
+- **9.29**: [Geometry: intersecting point](./tasks/9.29.py)
+- **9.30**: [Display a rectanguloid](./tasks/9.30.py)
+- **9.31**: [Display five filled circles](./tasks/9.31.py)
+- **9.32**: [Two movable vertices and their distances](./tasks/9.32.py)
+- **9.33**: [Draw an arrow line](./tasks/9.33.py)
+- **9.34**: [Address book](./tasks/9.34.py)
 
 <h2 style="color:red">Note:</h2>
 
