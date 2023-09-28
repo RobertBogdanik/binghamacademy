@@ -13,11 +13,11 @@
 - **13.10**: [The Rational class](./tasks/13.10.py)
 - **13.11**: [The Triangle class](./tasks/13.11.py)
 - **13.12**: [The TriangleError class](./tasks/13.12.py)
-- **13.13**: [](./tasks/13.13.py)
-- **13.14**: [](./tasks/13.14.py)
-- **13.15**: [](./tasks/13.15.py)
-- **13.16**: [](./tasks/13.16.py)
-- **13.17**: [](./tasks/13.17.py)
+- **13.13**: [Tkinter: display a graph](./tasks/13.13.py)
+- **13.14**: [Tkinter: display a graph](./tasks/13.14.py)
+- **13.15**: [Tkinter: address book](./tasks/13.15.py)
+- **13.16**: [Create large dataset](./tasks/13.16.py)
+- **13.17**: [Process large dataset](./tasks/13.17.py)
 
 <h2 style="color:red">Note:</h2>
 
